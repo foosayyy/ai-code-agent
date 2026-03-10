@@ -1,5 +1,9 @@
 # Local AI Codebase Analyzer Agent
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![AI](https://img.shields.io/badge/AI-Local%20LLM-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 ## Overview
 
 This project is a **local AI-powered code analysis agent**.
